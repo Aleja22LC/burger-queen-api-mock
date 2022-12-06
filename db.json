@@ -102,6 +102,12 @@
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "admin",
       "id": 2
+    },
+    {
+      "email": "jeniffer@mail.com",
+      "password": "$2a$10$.eY5HXJlXjRKsdP0LWTNgus9X7DLgQF.Es.VQ6tgEIrncA/2RxL9m",
+      "role": "mesero",
+      "id": 3
     }
   ]
 }
